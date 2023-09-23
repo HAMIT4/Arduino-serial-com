@@ -1,0 +1,4 @@
+﻿  ArduinoCOM.cpp
+G:\visual c++\Arduino-serialCOM-exe\Arduino-COMPort-communication-exe\Arduino-COMPort-communication-exe\ArduinoCOM.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  ArduinoCOM.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Arduino-COMPort-communication-exe.vcxproj -> G:\visual c++\Arduino-serialCOM-exe\Arduino-COMPort-communication-exe\x64\Debug\Arduino-COMPort-communication-exe.exe
